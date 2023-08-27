@@ -17,7 +17,7 @@ export const ProjectList = [
   {
     name: "Personal Portfolio",
     image: proj3,
-    skills: "ReactJS",
+    skills: "ReactJS,CSS",
     deploymentlink:"https://github.com/sauravsable"
   },
 ];

@@ -12,7 +12,7 @@ export default function Home() {
       <div className="about">
         <h2>Hi, My Name is Saurav.</h2>
         <div className="prompt">
-          <p>A Software Developer with a passion os Learning and Creating.</p>
+          <p>A MERN Stack Developer with a passion of Learning and Creating.</p>
           <Link to="https://www.linkedin.com/in/saurav-sable-0b334823b"><LinkedInIcon/></Link>
           <Link to="https://github.com/sauravsable"><GitHubIcon/></Link>
           <Link to="https://drive.google.com/file/d/1jCDexc9sSDFmnjS0ib-DJyy9VwKPvo4-/view?usp=drive_link"><CoPresentIcon/></Link> 
