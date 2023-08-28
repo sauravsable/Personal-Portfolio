@@ -12,12 +12,12 @@ export const ProjectList = [
     name: "College Predictor",
     image: proj2,
     skills: "Python,Numpy,Pandas,Linear Regression,Streamlit",
-    deploymentlink:"https://github.com/sauravsable/college-Predictor.git"
+    deploymentlink:"http://collegepredictor.pythonanywhere.com/add"
   },
   {
     name: "Personal Portfolio",
     image: proj3,
     skills: "ReactJS,CSS",
-    deploymentlink:"https://github.com/sauravsable"
+    deploymentlink:"https://sauravpersonal.netlify.app/"
   },
 ];
