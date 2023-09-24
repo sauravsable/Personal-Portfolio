@@ -32,6 +32,6 @@ export const ProjectList = [
     name: "Personal Portfolio",
     image: proj3,
     skills: "ReactJS,CSS",
-    deploymentlink:"https://sauravpersonal.netlify.app/"
+    deploymentlink:"https://personal-portfolio-phi-virid.vercel.app/"
   },
 ];
