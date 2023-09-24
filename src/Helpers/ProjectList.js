@@ -1,7 +1,21 @@
 import proj1 from '../images/project.PNG'
 import proj2 from '../images/project2.PNG'
 import proj3 from '../images/project3.PNG'
+import notebuddy from '../images/notebuddy.PNG'
+import nextapp from '../images/nextapp.PNG.jpg'
 export const ProjectList = [
+  {
+    name: "NoteBuddy",
+    image: notebuddy,
+    skills: "MERN Stack,Tailwind CSS",
+    deploymentlink:"https://notebuddy-nu.vercel.app/"
+  },
+  {
+    name: "Netflix Api",
+    image: nextapp,
+    skills: "NextJs",
+    deploymentlink:"https://netflix-api-using-next-lvrc4sc3r-21329-iiituacin.vercel.app/"
+  },
   {
     name: "Call a Edge",
     image: proj1,

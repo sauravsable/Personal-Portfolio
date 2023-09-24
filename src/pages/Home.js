@@ -24,7 +24,11 @@ export default function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <span>
-              Html,Css,JavaScript,ReactJs.
+              Html,Css,JavaScript,TypeScript,
+            </span>
+            <br />
+            <span>
+              ReactJs,NextJs.
             </span>
           </li>
           <li className="item">
