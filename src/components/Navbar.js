@@ -20,7 +20,7 @@ export default function Navbar() {
         <Link to="/education">Education</Link>
         <Link to="/experience">Experience</Link>
         <Link to="/projects">Projects</Link>
-        <Link to="/footer">Contact</Link>
+        <Link to="/message">Contact</Link>
     </div>
   </div>
   )

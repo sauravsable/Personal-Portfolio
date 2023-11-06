@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ProjectDisplay from './pages/ProjectDisplay'
 import "./styles/Navbar.css"
-
+import Message from './components/Message'
 
 export default function App() {
   return (
@@ -22,6 +22,7 @@ export default function App() {
       <Route path='/projects' element={<Projects/>}/>
       <Route path='/projects/:id' element={<ProjectDisplay/>}/>
       <Route path='/footer' element={<Footer/>}/>
+      <Route path='/message' element={<Message/>}/>
     </Routes>
     <Footer/>
     </BrowserRouter>
